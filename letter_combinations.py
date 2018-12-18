@@ -1,5 +1,7 @@
-#Creates letter combinations of digits of a phone number.
-#1 corresponds to no letter.
+'''
+Creates letter combinations of digits of a phone number.
+1 corresponds to no letter.
+'''
 
 def letterCombinations(digits):
         letters = ["abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"]
