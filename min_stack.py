@@ -31,7 +31,7 @@ class MinStack:
         """
         return self.stack[-1][0]
 
-    def getMin(self):
+    def get_min(self):
         """
         :rtype: int
         """
@@ -46,4 +46,4 @@ class MinStack:
 # obj.push(x)
 # obj.pop()
 # param_3 = obj.top()
-# param_4 = obj.getMin()
+# param_4 = obj.get_min()
